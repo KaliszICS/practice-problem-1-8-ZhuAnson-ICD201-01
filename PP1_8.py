@@ -4,7 +4,6 @@ def q1():
   bool2 = False
   print (bool1 and bool2)
   print (bool or bool2)
-  
 
 def q2():
   bool1 = int(input("Enter an integer: "))
@@ -18,7 +17,7 @@ def q4():
   food = input("Input food: ")
   drink = input("Input drink: ")
   if food == "pizza" and drink == "pop":
-    print(False
+    print(False)
   else:
     print(True)
 
