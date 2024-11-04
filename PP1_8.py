@@ -3,7 +3,7 @@ def q1():
   bool1 = True
   bool2 = False
   print (bool1 and bool2)
-  print (bool or bool2)
+  print (bool1 or bool2)
 
 def q2():
   bool1 = int(input("Enter an integer: "))
