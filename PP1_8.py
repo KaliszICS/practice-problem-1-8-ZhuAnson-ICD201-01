@@ -21,7 +21,6 @@ def q4():
     print(False
   else:
     print(True)
-    
 
 def q5():
   num = int(input("Enter an integer: "))
